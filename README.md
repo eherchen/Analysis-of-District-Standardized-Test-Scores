@@ -1,7 +1,17 @@
-# Homework-04
+# Python Homework-04
 
-I wanted to recap with a few notes:
+Analysis of district-wide standardized test results including student's math and reading scores, as well as various information on the schools they attend. Aggregation of the data to showcase obvious trends in school performance:
 
-Submittal delay: thank you for your patience on this. I appreciate that you allowed me to really spend time on this. I put likely 35 hours into this, which I am not sure is actually a good thing. If there is any critical feedback you have on any part of my code, it will be gratefully received.
+District Summary
+School Summary
+Top Performing Schools (By Passing Rate)
+Bottom Performing Schools (By Passing Rate)
+Math Scores by Grade
+Reading Scores by Grade
+Scores by School Spending
+Scores by School Size
+Scores by School Type
 
-Last note I would like to make is on the final charts for Scores by School Spending, Size and type. This I played around with, since the code seemed correct but for some reason it did not want to include Aver Math Score, Aver Reading Score, % Overall Passing columns. I believe how I used "import statistics" at the top has something to do with it.
+
+Notes:
+Bugs with final charts for "Scores by School Spending, Size and type". This I played around with, since the code seemed correct but for some reason it did not want to include Aver Math Score, Aver Reading Score, % Overall Passing columns. I believe how I used "import statistics" at the top has something to do with it.
